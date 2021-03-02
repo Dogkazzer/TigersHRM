@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOutcr1bdchLNYDiVLzh5Ued23y1pB9oFCWhR3PXRxFL67dpZWSOgwt/39EF85MkG+PXQ8cCEfKpVohXCIB2uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hil_w\\Projects to load to Git\\TigerHRM\\TigerHRM.Shared\\TigerHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hil_w\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hil_w\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hil_w\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

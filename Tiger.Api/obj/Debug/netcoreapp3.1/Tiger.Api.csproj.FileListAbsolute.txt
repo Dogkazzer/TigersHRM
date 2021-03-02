@@ -1,0 +1,130 @@
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.exe
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.deps.json
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.runtimeconfig.json
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.runtimeconfig.dev.json
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\TigerHRM.Shared.dll
+C:\Users\hil_w\source\repos\Tiger.Api\bin\Debug\netcoreapp3.1\TigerHRM.Shared.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.csprojAssemblyReference.cache
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.AssemblyInfoInputs.cache
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.AssemblyInfo.cs
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.csproj.CoreCompileInputs.cache
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\staticwebassets\Tiger.Api.StaticWebAssets.Manifest.cache
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\staticwebassets\Tiger.Api.StaticWebAssets.xml
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tiger.Api.styles.css
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.RazorTargetAssemblyInfo.cache
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.csproj.CopyComplete
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.dll
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.pdb
+C:\Users\hil_w\source\repos\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.genruntimeconfig.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.exe
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.deps.json
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.runtimeconfig.json
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.runtimeconfig.dev.json
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Tiger.Api.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\TigerHRM.Shared.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\bin\Debug\netcoreapp3.1\TigerHRM.Shared.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.csprojAssemblyReference.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.AssemblyInfoInputs.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.AssemblyInfo.cs
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.csproj.CoreCompileInputs.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\staticwebassets\Tiger.Api.StaticWebAssets.Manifest.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\staticwebassets\Tiger.Api.StaticWebAssets.xml
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tiger.Api.styles.css
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.RazorTargetAssemblyInfo.cache
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.csproj.CopyComplete
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.dll
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.pdb
+C:\Users\hil_w\Projects to load to Git\TigerHRM\Tiger.Api\obj\Debug\netcoreapp3.1\Tiger.Api.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\hil_w\source\repos\TigerHRM.Shared\bin\Debug\netstandard2.0\TigerHRM.Shared.deps.json
+C:\Users\hil_w\source\repos\TigerHRM.Shared\bin\Debug\netstandard2.0\TigerHRM.Shared.dll
+C:\Users\hil_w\source\repos\TigerHRM.Shared\bin\Debug\netstandard2.0\TigerHRM.Shared.pdb
+C:\Users\hil_w\source\repos\TigerHRM.Shared\obj\Debug\netstandard2.0\TigerHRM.Shared.csprojAssemblyReference.cache
+C:\Users\hil_w\source\repos\TigerHRM.Shared\obj\Debug\netstandard2.0\TigerHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\hil_w\source\repos\TigerHRM.Shared\obj\Debug\netstandard2.0\TigerHRM.Shared.AssemblyInfo.cs
+C:\Users\hil_w\source\repos\TigerHRM.Shared\obj\Debug\netstandard2.0\TigerHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hil_w\source\repos\TigerHRM.Shared\obj\Debug\netstandard2.0\TigerHRM.Shared.dll
+C:\Users\hil_w\source\repos\TigerHRM.Shared\obj\Debug\netstandard2.0\TigerHRM.Shared.pdb
